@@ -1,0 +1,8 @@
+,Crime,Before_Reduced_true,Before_Reduced_false,After_Reduced_true,After_Reduced_false,Final_Reduced_true,Final_Reduced_false
+0,rape_legacy,23,27,13,37,6,44
+1,rape_revised,27,23,12,38,5,45
+2,robbery,30,20,25,25,9,41
+3,property_crime,42,8,37,13,6,44
+4,burglary,43,7,44,6,6,44
+5,larceny,42,8,38,12,6,44
+6,motor_vehicle_theft,25,25,18,32,6,44
